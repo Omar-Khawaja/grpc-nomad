@@ -24,7 +24,7 @@ $ go run greeting-server/server.go
 In another window, type the following to run the client/gateway:
 
 ```shell
-address=localhost:8080 go run greeting-gateway/client.go 
+$ address=localhost:8080 go run greeting-gateway/client.go 
 ```
 
 You should be able to run the following now:
